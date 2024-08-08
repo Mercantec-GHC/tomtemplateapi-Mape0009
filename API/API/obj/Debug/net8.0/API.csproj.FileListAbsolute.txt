@@ -28,3 +28,14 @@ C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\obj\Debug\net8.0\
 C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\obj\Debug\net8.0\API.pdb
 C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\bin\Debug\net8.0\Blazor-ApexCharts.dll
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\Mads\Documents\GitHub\tomtemplateapi-Mape0009\API\API\bin\Debug\net8.0\libman.json

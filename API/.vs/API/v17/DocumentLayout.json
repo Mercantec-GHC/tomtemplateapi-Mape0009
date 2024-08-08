@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|c:\\users\\mads\\documents\\github\\tomtemplateapi-mape0009\\api\\api\\components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|solutionrelative:api\\components\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|c:\\users\\mads\\documents\\github\\tomtemplateapi-mape0009\\api\\api\\components\\pages\\benzin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|solutionrelative:api\\components\\pages\\benzin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|c:\\users\\mads\\documents\\github\\tomtemplateapi-mape0009\\api\\api\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|solutionrelative:api\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|c:\\users\\mads\\documents\\github\\tomtemplateapi-mape0009\\api\\api\\components\\pages\\diesel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|solutionrelative:api\\components\\pages\\diesel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|c:\\users\\mads\\documents\\github\\tomtemplateapi-mape0009\\api\\api\\components\\pages\\graph.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|solutionrelative:api\\components\\pages\\graph.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|c:\\users\\mads\\documents\\github\\tomtemplateapi-mape0009\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|c:\\users\\mads\\documents\\github\\tomtemplateapi-mape0009\\api\\api\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|solutionrelative:api\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|c:\\users\\mads\\documents\\github\\tomtemplateapi-mape0009\\api\\api\\components\\data\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|solutionrelative:api\\components\\data\\gas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|c:\\users\\mads\\documents\\github\\tomtemplateapi-mape0009\\api\\api\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D9F370-9193-441C-8D79-08DAB96EA92E}|API\\API.csproj|solutionrelative:api\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gas.cs",
+              "DocumentMoniker": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Data\\gas.cs",
+              "RelativeDocumentMoniker": "API\\Components\\Data\\gas.cs",
+              "ToolTip": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Data\\gas.cs",
+              "RelativeToolTip": "API\\Components\\Data\\gas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:45:13.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "API\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\_Imports.razor",
+              "RelativeToolTip": "API\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T06:43:42.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.razor",
+              "DocumentMoniker": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Pages\\Graph.razor",
+              "RelativeDocumentMoniker": "API\\Components\\Pages\\Graph.razor",
+              "ToolTip": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Pages\\Graph.razor",
+              "RelativeToolTip": "API\\Components\\Pages\\Graph.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T06:34:36.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Diesel.razor",
+              "DocumentMoniker": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Pages\\Diesel.razor",
+              "RelativeDocumentMoniker": "API\\Components\\Pages\\Diesel.razor",
+              "ToolTip": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Pages\\Diesel.razor",
+              "RelativeToolTip": "API\\Components\\Pages\\Diesel.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T10:01:32.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Benzin.razor",
+              "DocumentMoniker": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Pages\\Benzin.razor",
+              "RelativeDocumentMoniker": "API\\Components\\Pages\\Benzin.razor",
+              "ToolTip": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Pages\\Benzin.razor",
+              "RelativeToolTip": "API\\Components\\Pages\\Benzin.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T08:26:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "API\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "API\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAAAwwBwAAAA5AAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwCcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T08:47:53.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T08:47:53.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -51,21 +125,7 @@
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T08:29:20.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Test.razor",
-              "DocumentMoniker": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Pages\\Test.razor",
-              "RelativeDocumentMoniker": "API\\Components\\Pages\\Test.razor",
-              "ToolTip": "C:\\Users\\Mads\\Documents\\GitHub\\tomtemplateapi-Mape0009\\API\\API\\Components\\Pages\\Test.razor",
-              "RelativeToolTip": "API\\Components\\Pages\\Test.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T08:26:23.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T08:29:20.853Z"
             }
           ]
         }

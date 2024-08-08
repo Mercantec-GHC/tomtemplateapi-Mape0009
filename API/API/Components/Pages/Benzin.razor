@@ -1,0 +1,35 @@
+﻿@page "/Benzin"
+@using System.Text.Json
+@using System.Text.Json.Serialization
+@rendermode InteractiveServer
+@inject HttpClient Client
+
+<h1>Benzin Prices</h1>
+
+@if (benzin is null)
+{
+    <p>Skill Issue</p>
+}
+else
+{
+    <ApexChart TItem="GasAPI"
+               Title="Benzin Price">
+
+        <ApexPointSeries TItem="GasAPI"
+                         Items="benzin"
+                         SeriesType="SeriesType.Line"
+                         Name="Benzin"
+                         XValue="@(e => e.Date)"
+                         YValue="@(e => e.Price)" />
+    </ApexChart>
+}
+
+@code {
+    private List<GasAPI>? benzin;
+
+    protected override async Task OnInitializedAsync()
+    {
+        base.OnInitialized();
+        benzin = await Client.GetFromJsonAsync<List<GasAPI>>("https://magsapi.onrender.com/api/miles95");
+    }
+}
